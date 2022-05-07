@@ -1,0 +1,1337 @@
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.TextRenderer.resources
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csprojAssemblyReference.cache
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.TextRenderer.resources
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+E:\My study\SPSW_Solution - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csprojAssemblyReference.cache
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.TextRenderer.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csprojAssemblyReference.cache
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.TextRenderer.resources
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (1) - Copy\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadSettingsControl.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralResistance.resources
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\My study\SPSW_Solution (1)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csprojAssemblyReference.cache
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralResistance.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadSettingsControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.TextRenderer.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.InitNumModelfrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.EditNumModelFrm.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BaseNumModelUC.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BWHNumModelUC.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DPModelUC.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FibersZeroLengthNumModelUC.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.NonLinearEndNumModelUC.resources
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csprojAssemblyReference.cache
+E:\My study\SPSW_Solution (2)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticityReuslts.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csprojAssemblyReference.cache
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralResistance.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.EditNumModelFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.InitNumModelfrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticityReuslts.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BaseNumModelUC.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BWHNumModelUC.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DPModelUC.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FibersZeroLengthNumModelUC.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadSettingsControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.NonLinearEndNumModelUC.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.TextRenderer.resources
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (3)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csprojAssemblyReference.cache
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\Interop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralResistance.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.EditNumModelFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.InitNumModelfrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticityReuslts.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BaseNumModelUC.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BWHNumModelUC.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DPModelUC.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FibersZeroLengthNumModelUC.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadSettingsControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.NonLinearEndNumModelUC.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.TextRenderer.resources
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+E:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AboutDocsFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralResistance.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.EditNumModelFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.InitNumModelfrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticityReuslts.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BaseNumModelUC.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BWHNumModelUC.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DPModelUC.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FibersZeroLengthNumModelUC.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadSettingsControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.NonLinearEndNumModelUC.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
+F:\My study\SPSW_Solution (4)\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelViewer2D.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\2.jpg
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\1.jpg
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Elastic.gif
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Hysteretic.gif
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPP.gif
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ElasticPosNeg.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\MaterialInfo.pdf
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModIKModel.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Organize.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\sketch.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Steel01.gif
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\hnet.com-image.ico
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\statistics.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\parabola.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\beam.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\WSection2D.txt
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\ModalAnalysisScript.txt
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\next.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\back.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\lock.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\earthquake.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\plus.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\more.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\folder.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\eqe2917-fig-0001-m.jpg
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\start.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\pause.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button (1).png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\play-button.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\OpenSees.exe
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\IBeam.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\steel.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\image.ico
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\model.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Section.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\DeadLoad.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seismic.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\process.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\curve.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\seo-report.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Completed_check.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\Error.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\question.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Resources\refresh.png
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\lib\tcl8.6\init.tcl
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ISections.xlsx
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenSees\bin\vcruntime140.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe.config
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.exe
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\SPSW_Solver.pdb
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.pdb
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Numerics.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\MathNet.Spatial.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\OpenTK.GLControl.pdb
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\System.Drawing.Common.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\System.Private.DataContractSerialization.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\System.Reflection.TypeExtensions.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ZedGraph.WinForms.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\de\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\es\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\it\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\Interop.AcroPDFLib.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\Interop.AcroPDFLib.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.ResolveComReference.cache
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Properties.Resources.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AboutDocsFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogBaseControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogDeadLoadControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralLoadControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogLateralResistance.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBasicDataControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialBehaviorControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogMaterialCurveControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogModalAnalysisControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogResultControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogRunControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSectionFamiliesControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DialogSketchControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.DialogsUserControl.DialogSolvingOptions.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticMaterialCurveControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElasticPPMaterialCurveControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.GroupsControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.HystericMaterialCurveControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LoadCaseControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorGraphControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveValidationBaseControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialDialogsBaseControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ProfilePushoverControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Steel01MaterialCurveControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Time_History_ParametersControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelSettingDialogControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.AdaptivePushOverControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.EditNumModelFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FrameFamilyFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.InitNumModelfrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MainFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisReportFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelMainDimensionsfrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Openfrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticHingePropertiesfrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlateSectionFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PushOverCurvefrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.FrameElementResultfrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.NodesGraphsFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.PlasticityReuslts.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.SelectionFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.UI.Selection.ShearPlateResultFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BaseNumModelUC.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BWHNumModelUC.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DeadLoadsControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.DPModelUC.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ElementsFamilyControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.FibersZeroLengthNumModelUC.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadsControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.LateralLoadSettingsControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialBehaviorStageControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialCurveStageContro1.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.MaterialPropertiesStageControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModalAnalysisControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelStageControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.NonLinearEndNumModelUC.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ResultControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SectionControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.SketchStageControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.StageControl.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.BasicViewer.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.Materialfrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.RunFilesFrm.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.ModelViewer2D.resources
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.GenerateResource.cache
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CoreCompileInputs.cache
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.csproj.CopyComplete
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.exe
+F:\My study\BackUp\SPSW-Submission\SPSW_Solution\SPSW_Solver\SPSW_Solver\obj\Debug\SPSW_Solver.pdb
