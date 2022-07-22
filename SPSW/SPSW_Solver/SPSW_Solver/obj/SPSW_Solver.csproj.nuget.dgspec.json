@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\My study\\BackUp\\SPSW-Submission\\SPSW_Solution\\SPSW_Solver\\SPSW_Solver\\SPSW_Solver.csproj": {}
+    "E:\\SPSW\\INSPECT-SPSW\\SPSW\\SPSW_Solver\\SPSW_Solver\\SPSW_Solver.csproj": {}
   },
   "projects": {
-    "F:\\My study\\BackUp\\SPSW-Submission\\SPSW_Solution\\SPSW_Solver\\SPSW_Solver\\SPSW_Solver.csproj": {
+    "E:\\SPSW\\INSPECT-SPSW\\SPSW\\SPSW_Solver\\SPSW_Solver\\SPSW_Solver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My study\\BackUp\\SPSW-Submission\\SPSW_Solution\\SPSW_Solver\\SPSW_Solver\\SPSW_Solver.csproj",
+        "projectUniqueName": "E:\\SPSW\\INSPECT-SPSW\\SPSW\\SPSW_Solver\\SPSW_Solver\\SPSW_Solver.csproj",
         "projectName": "SPSW_Solver",
-        "projectPath": "F:\\My study\\BackUp\\SPSW-Submission\\SPSW_Solution\\SPSW_Solver\\SPSW_Solver\\SPSW_Solver.csproj",
+        "projectPath": "E:\\SPSW\\INSPECT-SPSW\\SPSW\\SPSW_Solver\\SPSW_Solver\\SPSW_Solver.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "F:\\My study\\BackUp\\SPSW-Submission\\SPSW_Solution\\SPSW_Solver\\SPSW_Solver\\obj\\",
+        "outputPath": "E:\\SPSW\\INSPECT-SPSW\\SPSW\\SPSW_Solver\\SPSW_Solver\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
