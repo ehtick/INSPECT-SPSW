@@ -14,75 +14,110 @@ file mkdir Data/BWH; # create ModeShapes directory
 file mkdir Data/PlasticHinges; # create ModeShapes directory
 # -------------------------
 # Define Nodes -------------------
-node 1 -180 0;
-node 2 60 0;
-node 3 180 0;
-node 4 -180 120;
-node 5 60 120;
-node 6 180 120;
-node 7 -180 240;
-node 8 60 240;
-node 9 180 240;
-node 10 -180 360;
-node 11 60 360;
-node 12 180 360;
-node 13 -145.71429 120;
-node 14 -111.42857 120;
-node 15 -77.14286 120;
-node 16 -42.85714 120;
-node 17 -8.57143 120;
-node 18 25.71429 120;
-node 19 60 80;
-node 20 60 40;
-node 21 -145.71429 0;
-node 22 -111.42857 0;
-node 23 -77.14286 0;
-node 24 -42.85714 0;
-node 25 -8.57143 0;
-node 26 25.71429 0;
-node 27 -180 80;
-node 28 -180 40;
-node 29 -145.71429 240;
-node 30 -111.42857 240;
-node 31 -77.14286 240;
-node 32 -42.85714 240;
-node 33 -8.57143 240;
-node 34 25.71429 240;
-node 35 60 200;
-node 36 60 160;
-node 37 -180 200;
-node 38 -180 160;
-node 39 -145.71429 360;
-node 40 -111.42857 360;
-node 41 -77.14286 360;
-node 42 -42.85714 360;
-node 43 -8.57143 360;
-node 44 25.71429 360;
-node 45 60 320;
-node 46 60 280;
-node 47 -180 320;
-node 48 -180 280;
-node 49 180 0.12;
-node 50 180 119.88;
-node 51 180 120.12;
-node 52 180 239.88;
-node 53 180 240.12;
-node 54 180 359.88;
-region 1 -nodeRange 1 54
+node 1 -90.05902 0;
+node 2 30.01968 0;
+node 3 90.05902 0;
+node 4 -72.90492 0;
+node 5 -55.75082 0;
+node 6 -38.59672 0;
+node 7 -21.44262 0;
+node 8 -4.28852 0;
+node 9 12.86558 0;
+node 10 -90.05902 67.95276;
+node 11 30.01968 67.95276;
+node 12 90.05902 67.95276;
+node 13 -90.05902 139.96063;
+node 14 30.01968 139.96063;
+node 15 90.05902 139.96063;
+node 16 -90.05902 211.9685;
+node 17 30.01968 211.9685;
+node 18 90.05902 211.9685;
+node 19 -90.05902 279.82283;
+node 20 30.01968 279.82283;
+node 21 90.05902 279.82283;
+node 22 -72.90492 67.95276;
+node 23 -55.75082 67.95276;
+node 24 -38.59672 67.95276;
+node 25 -21.44262 67.95276;
+node 26 -4.28852 67.95276;
+node 27 12.86558 67.95276;
+node 28 30.01968 50.96457;
+node 29 30.01968 33.97638;
+node 30 30.01968 16.98819;
+node 31 -90.05902 50.96457;
+node 32 -90.05902 33.97638;
+node 33 -90.05902 16.98819;
+node 34 -72.90492 139.96063;
+node 35 -55.75082 139.96063;
+node 36 -38.59673 139.96063;
+node 37 -21.44263 139.96063;
+node 38 -4.28853 139.96063;
+node 39 12.86557 139.96063;
+node 40 30.01968 121.95866;
+node 41 30.01968 103.9567;
+node 42 30.01968 85.95473;
+node 43 -90.05902 121.95866;
+node 44 -90.05902 103.9567;
+node 45 -90.05902 85.95473;
+node 46 -72.90492 211.9685;
+node 47 -55.75082 211.9685;
+node 48 -38.59673 211.9685;
+node 49 -21.44263 211.9685;
+node 50 -4.28853 211.9685;
+node 51 12.86557 211.9685;
+node 52 30.01968 193.96653;
+node 53 30.01968 175.96456;
+node 54 30.01968 157.9626;
+node 55 -90.05902 193.96653;
+node 56 -90.05902 175.96456;
+node 57 -90.05902 157.9626;
+node 58 -72.90492 279.82283;
+node 59 -55.75082 279.82283;
+node 60 -38.59672 279.82283;
+node 61 -21.44262 279.82283;
+node 62 -4.28852 279.82283;
+node 63 12.86558 279.82283;
+node 64 30.01968 262.85925;
+node 65 30.01968 245.89567;
+node 66 30.01968 228.93208;
+node 67 -90.05902 262.85925;
+node 68 -90.05902 245.89567;
+node 69 -90.05902 228.93208;
+node 70 90.05902 0.06795;
+node 71 90.05902 67.88481;
+node 72 90.05902 68.02477;
+node 73 90.05902 139.88862;
+node 74 90.05902 140.03264;
+node 75 90.05902 211.89649;
+node 76 90.05902 212.03635;
+node 77 90.05902 279.75498;
+node 78 -30.01967 67.95276;
+node 79 -30.01967 139.96063;
+node 80 -30.01967 211.9685;
+node 81 -30.01967 279.82283;
+region 1 -nodeRange 1 81
 # --------------------------------
 # Define Nodes Constrains-------------------
 fix 1 1 1 0;
 fix 2 1 1 0;
 fix 3 1 1 0;
-region 2 -nodeRange 1 3
+fix 4 1 1 0;
+fix 5 1 1 0;
+fix 6 1 1 0;
+fix 7 1 1 0;
+fix 8 1 1 0;
+fix 9 1 1 0;
+region 2 -nodeRange 1 9
 # -----------------------------------------
 # Define Nodes Mass-------------------
-mass 4 0.454968944099379 1.0e-9 1.0e-9;
-mass 5 0.454968944099379 1.0e-9 1.0e-9;
-mass 7 0.454968944099379 1.0e-9 1.0e-9;
-mass 8 0.454968944099379 1.0e-9 1.0e-9;
-mass 10 0.492792443064182 1.0e-9 1.0e-9;
-mass 11 0.492792443064182 1.0e-9 1.0e-9;
+mass 10 1.32093315819023 1.0e-9 1.0e-9;
+mass 11 1.32093315819023 1.0e-9 1.0e-9;
+mass 13 1.26393263019581 1.0e-9 1.0e-9;
+mass 14 1.26393263019581 1.0e-9 1.0e-9;
+mass 16 1.15034280547091 1.0e-9 1.0e-9;
+mass 17 1.15034280547091 1.0e-9 1.0e-9;
+mass 19 0.905523269595066 1.0e-9 1.0e-9;
+mass 20 0.905523269595066 1.0e-9 1.0e-9;
 # ------------------------------------
 proc WSec { FlangematIDhard  WebmatIDhard SecTag d  tw  bf tf nfbf nftf nftw nfdw} {
    # nfdw 20	 number of fibers along web depth 
@@ -120,165 +155,224 @@ proc rotSpring2D { eleID nodeR nodeC matID } {
 uniaxialMaterial Elastic 1 29000
 # -----------------------------------
 # User Defined Materials -------------------
-uniaxialMaterial Hysteretic 2 50 0.001724 61.67 0.022 37 0.036 -50 -0.001724 -61.67 -0.022 -37 -0.036 1 1 0 0; 
-uniaxialMaterial MinMax 3 2 -min -0.036 -max 0.036
-uniaxialMaterial Hysteretic 4 50 0.001724 61.67 0.022 61.67 0.036 -50 -0.001724 -61.67 -0.022 -61.67 -0.036 1 1 0 0; 
-uniaxialMaterial MinMax 5 4 -min -0.036 -max 0.036
-uniaxialMaterial Hysteretic 6 30 0.00105 38 0.015 0 0.018 -1E-20 -0.1 -1E-20 -0.2 -1E-20 -0.3 1 1E-09 0 0; 
-uniaxialMaterial MinMax 7 6 -min -1.79769313486232E+308 -max 0.018
+uniaxialMaterial Hysteretic 2 70 0.0025 97.61 0.05 58.57 0.066 -70 -0.0025 -97.61 -0.05 -58.57 -0.066 1 1 0 0; 
+uniaxialMaterial MinMax 3 2 -min -0.09 -max 0.09
+uniaxialMaterial Hysteretic 4 70 0.0024 97.61 0.05 97.61 0.09 -70 -0.0024 -97.61 -0.05 -97.61 -0.09 1 1 0 0; 
+uniaxialMaterial MinMax 5 4 -min -0.09 -max 0.09
+uniaxialMaterial Hysteretic 6 40 0.00138 62.4 0.04 62.4 0.07 -8 -0.000276 -8 -0.04 -8 -0.07 1 1 0 0; 
+uniaxialMaterial MinMax 7 6 -min -0.07 -max 0.07
+uniaxialMaterial Hysteretic 8 35 0.00121 57.5 0.04 57.5 0.07 -7 -0.00024 -7 -0.04 -7 -0.07 1 1 0 0; 
+uniaxialMaterial MinMax 9 8 -min -0.07 -max 0.07
 # ----------------------------------------
 # Infill Panels -------------------
-element Truss 2 21 16 1.87427915555319 7;
-element Truss 3 22 17 1.87427915555319 7;
-element Truss 4 23 18 1.87427915555319 7;
-element Truss 5 24 5 1.87427915555319 7;
-element Truss 6 25 19 1.87427915555319 7;
-element Truss 7 26 20 1.87427915555319 7;
-element Truss 8 27 13 1.87427915555319 7;
-element Truss 9 28 14 1.87427915555319 7;
-element Truss 10 1 15 1.87427915555319 7;
-element Truss 11 21 28 1.87427915555319 7;
-element Truss 12 22 27 1.87427915555319 7;
-element Truss 13 23 4 1.87427915555319 7;
-element Truss 14 24 13 1.87427915555319 7;
-element Truss 15 25 14 1.87427915555319 7;
-element Truss 16 26 15 1.87427915555319 7;
-element Truss 17 19 18 1.87427915555319 7;
-element Truss 18 20 17 1.87427915555319 7;
-element Truss 19 2 16 1.87427915555319 7;
-element Truss 20 13 32 1.53586764135609 7;
-element Truss 21 14 33 1.53586764135609 7;
-element Truss 22 15 34 1.53586764135609 7;
-element Truss 23 16 8 1.53586764135609 7;
-element Truss 24 17 35 1.53586764135609 7;
-element Truss 25 18 36 1.53586764135609 7;
-element Truss 26 37 29 1.53586764135609 7;
-element Truss 27 38 30 1.53586764135609 7;
-element Truss 28 4 31 1.53586764135609 7;
-element Truss 29 13 38 1.53586764135609 7;
-element Truss 30 14 37 1.53586764135609 7;
-element Truss 31 15 7 1.53586764135609 7;
-element Truss 32 16 29 1.53586764135609 7;
-element Truss 33 17 30 1.53586764135609 7;
-element Truss 34 18 31 1.53586764135609 7;
-element Truss 35 35 34 1.53586764135609 7;
-element Truss 36 36 33 1.53586764135609 7;
-element Truss 37 5 32 1.53586764135609 7;
-element Truss 38 29 42 0.937139577776595 7;
-element Truss 39 30 43 0.937139577776595 7;
-element Truss 40 31 44 0.937139577776595 7;
-element Truss 41 32 11 0.937139577776595 7;
-element Truss 42 33 45 0.937139577776595 7;
-element Truss 43 34 46 0.937139577776595 7;
-element Truss 44 47 39 0.937139577776595 7;
-element Truss 45 48 40 0.937139577776595 7;
-element Truss 46 7 41 0.937139577776595 7;
-element Truss 47 29 48 0.937139577776595 7;
-element Truss 48 30 47 0.937139577776595 7;
-element Truss 49 31 10 0.937139577776595 7;
-element Truss 50 32 39 0.937139577776595 7;
-element Truss 51 33 40 0.937139577776595 7;
-element Truss 52 34 41 0.937139577776595 7;
-element Truss 53 45 44 0.937139577776595 7;
-element Truss 54 46 43 0.937139577776595 7;
-element Truss 55 8 42 0.937139577776595 7;
-region 3 -eleRange 2 55
+element Truss 2 4 26 2.28107162739544 7;
+element Truss 3 5 27 2.28107162739544 7;
+element Truss 4 6 11 2.28107162739544 7;
+element Truss 5 7 28 2.28107162739544 7;
+element Truss 6 8 29 2.28107162739544 7;
+element Truss 7 9 30 2.28107162739544 7;
+element Truss 8 31 22 2.28107162739544 7;
+element Truss 9 32 23 2.28107162739544 7;
+element Truss 10 33 24 2.28107162739544 7;
+element Truss 11 1 25 2.28107162739544 7;
+element Truss 12 4 33 2.28107162739544 7;
+element Truss 13 5 32 2.28107162739544 7;
+element Truss 14 6 31 2.28107162739544 7;
+element Truss 15 7 10 2.28107162739544 7;
+element Truss 16 8 22 2.28107162739544 7;
+element Truss 17 9 23 2.28107162739544 7;
+element Truss 18 28 27 2.28107162739544 7;
+element Truss 19 29 26 2.28107162739544 7;
+element Truss 20 30 25 2.28107162739544 7;
+element Truss 21 2 24 2.28107162739544 7;
+element Truss 22 22 38 2.34683742880912 7;
+element Truss 23 23 39 2.34683742880912 7;
+element Truss 24 24 14 2.34683742880912 7;
+element Truss 25 25 40 2.34683742880912 7;
+element Truss 26 26 41 2.34683742880912 7;
+element Truss 27 27 42 2.34683742880912 7;
+element Truss 28 43 34 2.34683742880912 7;
+element Truss 29 44 35 2.34683742880912 7;
+element Truss 30 45 36 2.34683742880912 7;
+element Truss 31 10 37 2.34683742880912 7;
+element Truss 32 22 45 2.34683742880912 7;
+element Truss 33 23 44 2.34683742880912 7;
+element Truss 34 24 43 2.34683742880912 7;
+element Truss 35 25 13 2.34683742880912 7;
+element Truss 36 26 34 2.34683742880912 7;
+element Truss 37 27 35 2.34683742880912 7;
+element Truss 38 40 39 2.34683742880912 7;
+element Truss 39 41 38 2.34683742880912 7;
+element Truss 40 42 37 2.34683742880912 7;
+element Truss 41 11 36 2.34683742880912 7;
+element Truss 42 34 50 1.6623431787398 9;
+element Truss 43 35 51 1.6623431787398 9;
+element Truss 44 36 17 1.6623431787398 9;
+element Truss 45 37 52 1.6623431787398 9;
+element Truss 46 38 53 1.6623431787398 9;
+element Truss 47 39 54 1.6623431787398 9;
+element Truss 48 55 46 1.6623431787398 9;
+element Truss 49 56 47 1.6623431787398 9;
+element Truss 50 57 48 1.6623431787398 9;
+element Truss 51 13 49 1.6623431787398 9;
+element Truss 52 34 57 1.6623431787398 9;
+element Truss 53 35 56 1.6623431787398 9;
+element Truss 54 36 55 1.6623431787398 9;
+element Truss 55 37 16 1.6623431787398 9;
+element Truss 56 38 46 1.6623431787398 9;
+element Truss 57 39 47 1.6623431787398 9;
+element Truss 58 52 51 1.6623431787398 9;
+element Truss 59 53 50 1.6623431787398 9;
+element Truss 60 54 49 1.6623431787398 9;
+element Truss 61 14 48 1.6623431787398 9;
+element Truss 62 46 62 1.61457621437414 9;
+element Truss 63 47 63 1.61457621437414 9;
+element Truss 64 48 20 1.61457621437414 9;
+element Truss 65 49 64 1.61457621437414 9;
+element Truss 66 50 65 1.61457621437414 9;
+element Truss 67 51 66 1.61457621437414 9;
+element Truss 68 67 58 1.61457621437414 9;
+element Truss 69 68 59 1.61457621437414 9;
+element Truss 70 69 60 1.61457621437414 9;
+element Truss 71 16 61 1.61457621437414 9;
+element Truss 72 46 69 1.61457621437414 9;
+element Truss 73 47 68 1.61457621437414 9;
+element Truss 74 48 67 1.61457621437414 9;
+element Truss 75 49 19 1.61457621437414 9;
+element Truss 76 50 58 1.61457621437414 9;
+element Truss 77 51 59 1.61457621437414 9;
+element Truss 78 64 63 1.61457621437414 9;
+element Truss 79 65 62 1.61457621437414 9;
+element Truss 80 66 61 1.61457621437414 9;
+element Truss 81 17 60 1.61457621437414 9;
+region 3 -eleRange 2 81
 # ----------------------------------
 # Rot Springs Gravity Columns -------------------
-uniaxialMaterial Elastic 8 0.029;
-rotSpring2D 72 3 49 8;
-rotSpring2D 73 6 50 8;
-rotSpring2D 74 6 51 8;
-rotSpring2D 75 9 52 8;
-rotSpring2D 76 9 53 8;
-rotSpring2D 77 12 54 8;
+uniaxialMaterial Elastic 10 0.029;
+rotSpring2D 103 3 70 10;
+rotSpring2D 104 12 71 10;
+rotSpring2D 105 12 72 10;
+rotSpring2D 106 15 73 10;
+rotSpring2D 107 15 74 10;
+rotSpring2D 108 18 75 10;
+rotSpring2D 109 18 76 10;
+rotSpring2D 110 21 77 10;
 # ---------------------------- -------------------
-element elasticBeamColumn 78 49 50 4300 29000 4580 1;
-element elasticBeamColumn 79 51 52 2230 29000 1330 1;
-element elasticBeamColumn 80 53 54 2620 29000 1300 1;
-region 5 -eleRange 78 80
+element elasticBeamColumn 111 70 71 2320 29000 662 1;
+element elasticBeamColumn 112 72 73 2320 29000 662 1;
+element elasticBeamColumn 113 74 75 2320 29000 662 1;
+element elasticBeamColumn 114 76 77 2320 29000 662 1;
+region 5 -eleRange 111 114
 # Rigid Links -------------------
-element truss 69 5 6 1310 1;
-element truss 70 8 9 1790 1;
-element truss 71 11 12 2230 1;
-region 4 -eleRange 69 71
+element truss 99 11 12 1170 1;
+element truss 100 14 15 1170 1;
+element truss 101 17 18 1170 1;
+element truss 102 20 21 1620 1;
+region 4 -eleRange 99 102
 # ----------------------------------
-WSec 3 5 1 24.3 0.55 12.8 0.85 1 16 1 33;
-element beamWithHinges 81 1 21 1 21.87 1 2.43 29000 34.4 3540 1;
-element beamWithHinges 82 21 22 1 2.43 1 2.43 29000 34.4 3540 1;
-element beamWithHinges 83 22 23 1 2.43 1 2.43 29000 34.4 3540 1;
-element beamWithHinges 84 23 24 1 2.43 1 2.43 29000 34.4 3540 1;
-element beamWithHinges 85 24 25 1 2.43 1 2.43 29000 34.4 3540 1;
-element beamWithHinges 86 25 26 1 2.43 1 2.43 29000 34.4 3540 1;
-element beamWithHinges 87 26 2 1 2.43 1 21.87 29000 34.4 3540 1;
-WSec 3 5 2 12.1 0.335 8.05 0.575 1 16 1 33;
-element beamWithHinges 88 4 13 2 10.89 2 1.21 29000 13.1 348 1;
-element beamWithHinges 89 13 14 2 1.21 2 1.21 29000 13.1 348 1;
-element beamWithHinges 90 14 15 2 1.21 2 1.21 29000 13.1 348 1;
-element beamWithHinges 91 15 16 2 1.21 2 1.21 29000 13.1 348 1;
-element beamWithHinges 92 16 17 2 1.21 2 1.21 29000 13.1 348 1;
-element beamWithHinges 93 17 18 2 1.21 2 1.21 29000 13.1 348 1;
-element beamWithHinges 94 18 5 2 1.21 2 10.89 29000 13.1 348 1;
-WSec 3 5 3 13.9 0.375 10 0.645 1 16 1 33;
-element beamWithHinges 95 7 29 3 12.51 3 1.39 29000 17.9 640 1;
-element beamWithHinges 96 29 30 3 1.39 3 1.39 29000 17.9 640 1;
-element beamWithHinges 97 30 31 3 1.39 3 1.39 29000 17.9 640 1;
-element beamWithHinges 98 31 32 3 1.39 3 1.39 29000 17.9 640 1;
-element beamWithHinges 99 32 33 3 1.39 3 1.39 29000 17.9 640 1;
-element beamWithHinges 100 33 34 3 1.39 3 1.39 29000 17.9 640 1;
-element beamWithHinges 101 34 8 3 1.39 3 12.51 29000 17.9 640 1;
-WSec 3 5 4 18.2 0.425 11 0.68 1 16 1 33;
-element beamWithHinges 102 10 39 4 16.38 4 1.82 29000 22.3 1330 1;
-element beamWithHinges 103 39 40 4 1.82 4 1.82 29000 22.3 1330 1;
-element beamWithHinges 104 40 41 4 1.82 4 1.82 29000 22.3 1330 1;
-element beamWithHinges 105 41 42 4 1.82 4 1.82 29000 22.3 1330 1;
-element beamWithHinges 106 42 43 4 1.82 4 1.82 29000 22.3 1330 1;
-element beamWithHinges 107 43 44 4 1.82 4 1.82 29000 22.3 1330 1;
-element beamWithHinges 108 44 11 4 1.82 4 16.38 29000 22.3 1330 1;
-WSec 3 5 5 24.7 0.65 12.9 1.09 1 16 1 33;
-element beamWithHinges 109 1 28 5 22.23 5 2.47 29000 43 4580 1;
-element beamWithHinges 110 28 27 5 2.47 5 2.47 29000 43 4580 1;
-element beamWithHinges 111 27 4 5 2.47 5 22.23 29000 43 4580 1;
-element beamWithHinges 112 2 20 5 22.23 5 2.47 29000 43 4580 1;
-element beamWithHinges 113 20 19 5 2.47 5 2.47 29000 43 4580 1;
-element beamWithHinges 114 19 5 5 2.47 5 22.23 29000 43 4580 1;
-WSec 3 5 6 18.2 0.425 11 0.68 1 16 1 33;
-element beamWithHinges 115 4 38 6 16.38 6 1.82 29000 22.3 1330 1;
-element beamWithHinges 116 38 37 6 1.82 6 1.82 29000 22.3 1330 1;
-element beamWithHinges 117 37 7 6 1.82 6 16.38 29000 22.3 1330 1;
-element beamWithHinges 118 5 36 6 16.38 6 1.82 29000 22.3 1330 1;
-element beamWithHinges 119 36 35 6 1.82 6 1.82 29000 22.3 1330 1;
-element beamWithHinges 120 35 8 6 1.82 6 16.38 29000 22.3 1330 1;
-WSec 3 5 7 16.8 0.525 10.4 0.875 1 16 1 33;
-element beamWithHinges 121 7 48 7 15.12 7 1.68 29000 26.2 1300 1;
-element beamWithHinges 122 48 47 7 1.68 7 1.68 29000 26.2 1300 1;
-element beamWithHinges 123 47 10 7 1.68 7 15.12 29000 26.2 1300 1;
-element beamWithHinges 124 8 46 7 15.12 7 1.68 29000 26.2 1300 1;
-element beamWithHinges 125 46 45 7 1.68 7 1.68 29000 26.2 1300 1;
-element beamWithHinges 126 45 11 7 1.68 7 15.12 29000 26.2 1300 1;
-region 9 -eleRange 81 126
-equalDOF 4 5 1;
-equalDOF 4 6 1;
-equalDOF 7 8 1;
-equalDOF 7 9 1;
+element elasticBeamColumn 115 1 4 23.2 29000 662 1;
+element elasticBeamColumn 116 4 5 23.2 29000 662 1;
+element elasticBeamColumn 117 5 6 23.2 29000 662 1;
+element elasticBeamColumn 118 6 7 23.2 29000 662 1;
+element elasticBeamColumn 119 7 8 23.2 29000 662 1;
+element elasticBeamColumn 120 8 9 23.2 29000 662 1;
+element elasticBeamColumn 121 9 2 23.2 29000 662 1;
+element elasticBeamColumn 122 22 23 11.7 29000 307 1;
+element elasticBeamColumn 123 23 24 11.7 29000 307 1;
+element elasticBeamColumn 124 24 78 11.7 29000 307 1;
+element elasticBeamColumn 125 78 25 11.7 29000 307 1;
+element elasticBeamColumn 126 25 26 11.7 29000 307 1;
+element elasticBeamColumn 127 26 27 11.7 29000 307 1;
+element elasticBeamColumn 128 34 35 11.7 29000 307 1;
+element elasticBeamColumn 129 35 36 11.7 29000 307 1;
+element elasticBeamColumn 130 36 79 11.7 29000 307 1;
+element elasticBeamColumn 131 79 37 11.7 29000 307 1;
+element elasticBeamColumn 132 37 38 11.7 29000 307 1;
+element elasticBeamColumn 133 38 39 11.7 29000 307 1;
+element elasticBeamColumn 134 46 47 11.7 29000 307 1;
+element elasticBeamColumn 135 47 48 11.7 29000 307 1;
+element elasticBeamColumn 136 48 80 11.7 29000 307 1;
+element elasticBeamColumn 137 80 49 11.7 29000 307 1;
+element elasticBeamColumn 138 49 50 11.7 29000 307 1;
+element elasticBeamColumn 139 50 51 11.7 29000 307 1;
+element elasticBeamColumn 140 58 59 16.2 29000 1140 1;
+element elasticBeamColumn 141 59 60 16.2 29000 1140 1;
+element elasticBeamColumn 142 60 81 16.2 29000 1140 1;
+element elasticBeamColumn 143 81 61 16.2 29000 1140 1;
+element elasticBeamColumn 144 61 62 16.2 29000 1140 1;
+element elasticBeamColumn 145 62 63 16.2 29000 1140 1;
+element elasticBeamColumn 146 33 32 23.2 29000 662 1;
+element elasticBeamColumn 147 32 31 23.2 29000 662 1;
+element elasticBeamColumn 148 31 10 23.2 29000 662 1;
+element elasticBeamColumn 149 30 29 23.2 29000 662 1;
+element elasticBeamColumn 150 29 28 23.2 29000 662 1;
+element elasticBeamColumn 151 28 11 23.2 29000 662 1;
+element elasticBeamColumn 152 10 45 23.2 29000 662 1;
+element elasticBeamColumn 153 45 44 23.2 29000 662 1;
+element elasticBeamColumn 154 44 43 23.2 29000 662 1;
+element elasticBeamColumn 155 43 13 23.2 29000 662 1;
+element elasticBeamColumn 156 11 42 23.2 29000 662 1;
+element elasticBeamColumn 157 42 41 23.2 29000 662 1;
+element elasticBeamColumn 158 41 40 23.2 29000 662 1;
+element elasticBeamColumn 159 40 14 23.2 29000 662 1;
+element elasticBeamColumn 160 13 57 23.2 29000 662 1;
+element elasticBeamColumn 161 57 56 23.2 29000 662 1;
+element elasticBeamColumn 162 56 55 23.2 29000 662 1;
+element elasticBeamColumn 163 55 16 23.2 29000 662 1;
+element elasticBeamColumn 164 14 54 23.2 29000 662 1;
+element elasticBeamColumn 165 54 53 23.2 29000 662 1;
+element elasticBeamColumn 166 53 52 23.2 29000 662 1;
+element elasticBeamColumn 167 52 17 23.2 29000 662 1;
+element elasticBeamColumn 168 16 69 23.2 29000 662 1;
+element elasticBeamColumn 169 69 68 23.2 29000 662 1;
+element elasticBeamColumn 170 68 67 23.2 29000 662 1;
+element elasticBeamColumn 171 67 19 23.2 29000 662 1;
+element elasticBeamColumn 172 17 66 23.2 29000 662 1;
+element elasticBeamColumn 173 66 65 23.2 29000 662 1;
+element elasticBeamColumn 174 65 64 23.2 29000 662 1;
+element elasticBeamColumn 175 64 20 23.2 29000 662 1;
+region 6 -eleRange 115 175
+WSec 5 5 1 11.9 0.295 8.01 0.515 25 2 1 15;
+element nonlinearBeamColumn 176 10 22 3 1 1
+element nonlinearBeamColumn 177 27 11 3 1 1
+element nonlinearBeamColumn 178 13 34 3 1 1
+element nonlinearBeamColumn 179 39 14 3 1 1
+element nonlinearBeamColumn 180 16 46 3 1 1
+element nonlinearBeamColumn 181 51 17 3 1 1
+WSec 5 5 2 20.8 0.375 8.22 0.522 25 2 1 15;
+element nonlinearBeamColumn 182 19 58 3 2 1
+element nonlinearBeamColumn 183 63 20 3 2 1
+WSec 3 3 3 12.4 0.47 12.1 0.735 25 2 1 15;
+element nonlinearBeamColumn 184 1 33 3 3 1
+element nonlinearBeamColumn 185 2 30 3 3 1
+region 8 -eleRange 176 185
 equalDOF 10 11 1;
 equalDOF 10 12 1;
+equalDOF 13 14 1;
+equalDOF 13 15 1;
+equalDOF 16 17 1;
+equalDOF 16 18 1;
+equalDOF 19 20 1;
+equalDOF 19 21 1;
 pattern Plain 1 Linear {
-load 4 0.0 -58.6 0.0;
-load 5 0.0 -58.6 0.0;
-load 6 0.0 -234.4 0.0;
-load 7 0.0 -58.6 0.0;
-load 8 0.0 -58.6 0.0;
-load 9 0.0 -234.4 0.0;
-load 10 0.0 -63.47 0.0;
-load 11 0.0 -63.47 0.0;
-load 12 0.0 -253.89 0.0;
+load 10 0.0 -510.408571824704 0.0;
+load 11 0.0 -510.408571824704 0.0;
+load 12 0.0 -1E-06 0.0;
+load 13 0.0 -488.383567807663 0.0;
+load 14 0.0 -488.383567807663 0.0;
+load 15 0.0 -1E-06 0.0;
+load 16 0.0 -444.492459533961 0.0;
+load 17 0.0 -444.492459533961 0.0;
+load 18 0.0 -1E-06 0.0;
+load 19 0.0 -349.894190871533 0.0;
+load 20 0.0 -349.894190871533 0.0;
+load 21 0.0 -1E-06 0.0;
 }
 wipeAnalysis;
 constraints Plain ;
 numberer Plain;
-system BandGeneral;
-test NormDispIncr 1E-09 100;
+system SparseGEN;
+test NormDispIncr 0.0001 100;
 algorithm Newton;
 integrator LoadControl 0.1;
 analysis Static;
@@ -291,27 +385,29 @@ recorder Node -file Data/Nodes/Nodes.out -time -region 1 -dof 1 2 3 disp;
 recorder Element -file Data/Trusses/TrussesStrains.out -time -region 3 deformations;
 recorder Element -file Data/Trusses/Trusses.out -time -region 3 basicForces;
 recorder Element -file Data/GravityColumns/LocalForces.out -time -region 5 localForce;
-recorder Element -file Data/BWH/LocalForces.out -time -region 9 localForce;
-recorder Element -file Data/BWH/ElasticRotation.out -time -region 9 basicDeformation;
-recorder Element -file Data/BWH/PlasticRotation.out -time -region 9 plasticDeformation;
+recorder Element -file Data/Elastic/LocalForces.out -time -region 6 localForce;
+recorder Element -file Data/NonLinearBeamColumn/LocalForces.out -time -region 8 localForce;
+recorder Element -file Data/NonLinearBeamColumn/ElasticRotation.out -time -region 8 basicDeformation;
+recorder Element -file Data/NonLinearBeamColumn/PlasticRotation.out -time -region 8 plasticDeformation;
 # PUSH OVER analysis ------------------------------
 pattern Plain 2 Linear {
-load 10 0.1 0.0 0.0;
-load 7 0.0666666666666667 0.0 0.0;
-load 4 0.0333333333333333 0.0 0.0;
+load 19 0.1 0.0 0.0;
+load 16 0.0757509669492454 0.0 0.0;
+load 13 0.050017587789344 0.0 0.0;
+load 10 0.0242842086294426 0.0 0.0;
 }
 # pushover: diplacement controlled static analysis
 wipeAnalysis;
 constraints Plain ;
 numberer Plain;
-system BandGeneral;
-test NormDispIncr 1E-09 100;
+system SparseGEN;
+test NormDispIncr 0.0001 100;
 set algorithmType Newton;
 algorithm $algorithmType;
 set IDctrlDOF 1;
-set Dmax double(28.8);
-set Dincr [ expr $Dmax/5500 ]
-set IDctrlNode 10;
+set Dmax double(13.991141535);
+set Dincr [ expr $Dmax/4000 ]
+set IDctrlNode 19;
 integrator DisplacementControl $IDctrlNode $IDctrlDOF $Dincr;
 analysis Static	
 set Nsteps [expr int($Dmax /$Dincr)];

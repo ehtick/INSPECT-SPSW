@@ -50,7 +50,7 @@ namespace SPSW_Solver
                 count = mainMode.Deformations[CurrentLoadCase].Count;
                 for (int i = 0; i < count; i++)
                 {
-                    points.Add(new Point2D((mainMode.Deformations[CurrentLoadCase][i].Dx - subMode.Deformations[CurrentLoadCase][i].Dx)/ LevelHeight, Model.GetBaseShear(CurrentLoadCase, i)));
+                    points.Add(new Point2D((mainMode.Deformations[CurrentLoadCase][i].Dx - subMode.Deformations[CurrentLoadCase][i].Dx) / LevelHeight, Model.GetBaseShear(CurrentLoadCase, i)));
                 }
             }
             else
