@@ -71,7 +71,7 @@ namespace SPSW_Solver.PythonTranslator
                 string mainDirectory = Directory.GetDirectoryRoot(exepath);
                 string folderPath = Path.Combine(Path.Combine(Path.GetDirectoryName(exepath), "OpenSees"), "bin");
                 List<string> commands = new List<string>();
-                commands.Add(exepath);
+                //commands.Add(exepath);
                 commands.Add(string.Format("cd {0}", folderPath));
                 commands.Add(string.Format("OpenSees.exe {0}", InputFile));
                 commands.Add("C:");
