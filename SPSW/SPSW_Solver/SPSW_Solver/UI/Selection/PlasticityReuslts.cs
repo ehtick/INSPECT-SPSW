@@ -68,20 +68,6 @@ namespace SPSW_Solver
             
         }
 
-        private void KSI_Btn_CheckedChanged(object sender, EventArgs e)
-        {
-            if (KSI_Btn.Checked)
-            {
-                UpdateCurve(Elements[comboBox1.SelectedIndex]);
-            }
-        }
-
-        private void Kn_Btn_CheckedChanged(object sender, EventArgs e)
-        {
-            if (Kn_Btn.Checked)
-            {
-                UpdateCurve(Elements[comboBox1.SelectedIndex]);
-            }
-        }
+        
     }
 }
