@@ -1223,7 +1223,7 @@ namespace SPSW_Solver.Model
         public double GetALong()
         {
             return (_flangeMaterial.BasicData.Density * _section.Bf * _section.Tf * 2)
-                + (_webMaterial.BasicData.Density * _section.Tf * (_section.D - 2 * _section.Bf));
+                + (_webMaterial.BasicData.Density * _section.Tw * (_section.D - 2 * _section.Tf));
         }
         public double GetHingedRationalStiffnes(double length)
         {

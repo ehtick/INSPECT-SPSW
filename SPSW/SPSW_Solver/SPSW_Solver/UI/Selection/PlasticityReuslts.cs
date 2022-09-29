@@ -44,7 +44,7 @@ namespace SPSW_Solver
         {
             zedGraphControl1.GraphPane.CurveList.Clear();
             zedGraphControl1.GraphPane.GraphObjList.Clear();
-            zedGraphControl1.GraphPane.Title.Text = "Moment - Rotaion";
+            zedGraphControl1.GraphPane.Title.Text = "Moment - Rotation";
             zedGraphControl1.GraphPane.XAxis.Title.Text ="Rotation - radians";
             string ytext = "Moment";
             
