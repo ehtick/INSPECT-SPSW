@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPSW_Solver", "SPSW_Solver\SPSW_Solver.csproj", "{4A7BE7E5-2414-479F-BFC6-916617AA6773}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SPSW Setup", "SPSW Setup\SPSW Setup.vdproj", "{1873AEA8-25AB-4C14-A908-B3D1FE64920E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,14 @@ Global
 		{4A7BE7E5-2414-479F-BFC6-916617AA6773}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4A7BE7E5-2414-479F-BFC6-916617AA6773}.Release|x86.ActiveCfg = Release|Any CPU
 		{4A7BE7E5-2414-479F-BFC6-916617AA6773}.Release|x86.Build.0 = Release|Any CPU
+		{1873AEA8-25AB-4C14-A908-B3D1FE64920E}.Debug|Any CPU.ActiveCfg = Debug
+		{1873AEA8-25AB-4C14-A908-B3D1FE64920E}.Debug|x86.ActiveCfg = Debug
+		{1873AEA8-25AB-4C14-A908-B3D1FE64920E}.Documentation|Any CPU.ActiveCfg = Debug
+		{1873AEA8-25AB-4C14-A908-B3D1FE64920E}.Documentation|x86.ActiveCfg = Debug
+		{1873AEA8-25AB-4C14-A908-B3D1FE64920E}.Nsis|Any CPU.ActiveCfg = Debug
+		{1873AEA8-25AB-4C14-A908-B3D1FE64920E}.Nsis|x86.ActiveCfg = Debug
+		{1873AEA8-25AB-4C14-A908-B3D1FE64920E}.Release|Any CPU.ActiveCfg = Release
+		{1873AEA8-25AB-4C14-A908-B3D1FE64920E}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
