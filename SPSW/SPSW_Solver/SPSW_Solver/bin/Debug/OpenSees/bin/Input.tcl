@@ -110,14 +110,14 @@ fix 9 1 1 0;
 region 2 -nodeRange 1 9
 # -----------------------------------------
 # Define Nodes Mass-------------------
-mass 10 1.32093315819023 1.0e-9 1.0e-9;
-mass 11 1.32093315819023 1.0e-9 1.0e-9;
-mass 13 1.26393263019581 1.0e-9 1.0e-9;
-mass 14 1.26393263019581 1.0e-9 1.0e-9;
-mass 16 1.15034280547091 1.0e-9 1.0e-9;
-mass 17 1.15034280547091 1.0e-9 1.0e-9;
-mass 19 0.905523269595066 1.0e-9 1.0e-9;
-mass 20 0.905523269595066 1.0e-9 1.0e-9;
+mass 10 2.5879917184265E-09 1.0e-9 1.0e-9;
+mass 11 2.5879917184265E-09 1.0e-9 1.0e-9;
+mass 13 2.5879917184265E-09 1.0e-9 1.0e-9;
+mass 14 2.5879917184265E-09 1.0e-9 1.0e-9;
+mass 16 2.5879917184265E-09 1.0e-9 1.0e-9;
+mass 17 2.5879917184265E-09 1.0e-9 1.0e-9;
+mass 19 0.418944100672878 1.0e-9 1.0e-9;
+mass 20 0.418944100672878 1.0e-9 1.0e-9;
 # ------------------------------------
 proc WSec { FlangematIDhard  WebmatIDhard SecTag d  tw  bf tf nfbf nftf nftw nfdw} {
    # nfdw 20	 number of fibers along web depth 
@@ -155,14 +155,14 @@ proc rotSpring2D { eleID nodeR nodeC matID } {
 uniaxialMaterial Elastic 1 29000
 # -----------------------------------
 # User Defined Materials -------------------
-uniaxialMaterial Hysteretic 2 70 0.0025 97.61 0.05 58.57 0.066 -70 -0.0025 -97.61 -0.05 -58.57 -0.066 1 1 0 0; 
-uniaxialMaterial MinMax 3 2 -min -0.09 -max 0.09
-uniaxialMaterial Hysteretic 4 70 0.0024 97.61 0.05 97.61 0.09 -70 -0.0024 -97.61 -0.05 -97.61 -0.09 1 1 0 0; 
-uniaxialMaterial MinMax 5 4 -min -0.09 -max 0.09
-uniaxialMaterial Hysteretic 6 40 0.00138 62.4 0.04 62.4 0.07 -8 -0.000276 -8 -0.04 -8 -0.07 1 1 0 0; 
-uniaxialMaterial MinMax 7 6 -min -0.07 -max 0.07
-uniaxialMaterial Hysteretic 8 35 0.00121 57.5 0.04 57.5 0.07 -7 -0.00024 -7 -0.04 -7 -0.07 1 1 0 0; 
-uniaxialMaterial MinMax 9 8 -min -0.07 -max 0.07
+uniaxialMaterial Hysteretic 2 72 0.00248 89.7 0.033 53.82 0.0568 -72 -0.00248 -89.7 -0.033 -53.82 -0.0568 1 1 0 0; 
+uniaxialMaterial MinMax 3 2 -min -0.0925 -max 0.0925
+uniaxialMaterial Hysteretic 4 72 0.00248 89.7 0.033 89.7 0.0925 -72 -0.00248 -89.7 -0.033 -89.7 -0.0925 1 1 0 0; 
+uniaxialMaterial MinMax 5 4 -min -0.0925 -max 0.0925
+uniaxialMaterial Hysteretic 6 34 0.00117 44.92 0.02 44.92 0.06 -5.1 -0.000176 -5.1 -0.02 -5.1 -0.06 1 1 0 0; 
+uniaxialMaterial MinMax 7 6 -min -0.06 -max 0.06
+uniaxialMaterial Hysteretic 8 34 0.00117 44.92 0.02 44.92 0.06 -5.1 -0.000176 -5.1 -0.03 -5.1 -0.06 1 1 0 0; 
+uniaxialMaterial MinMax 9 8 -min -0.06 -max 0.06
 # ----------------------------------------
 # Infill Panels -------------------
 element Truss 2 4 26 2.28107162739544 7;
@@ -355,17 +355,17 @@ equalDOF 16 18 1;
 equalDOF 19 20 1;
 equalDOF 19 21 1;
 pattern Plain 1 Linear {
-load 10 0.0 -510.408571824704 0.0;
-load 11 0.0 -510.408571824704 0.0;
+load 10 0.0 -5E-07 0.0;
+load 11 0.0 -5E-07 0.0;
 load 12 0.0 -1E-06 0.0;
-load 13 0.0 -488.383567807663 0.0;
-load 14 0.0 -488.383567807663 0.0;
+load 13 0.0 -5E-07 0.0;
+load 14 0.0 -5E-07 0.0;
 load 15 0.0 -1E-06 0.0;
-load 16 0.0 -444.492459533961 0.0;
-load 17 0.0 -444.492459533961 0.0;
+load 16 0.0 -5E-07 0.0;
+load 17 0.0 -5E-07 0.0;
 load 18 0.0 -1E-06 0.0;
-load 19 0.0 -349.894190871533 0.0;
-load 20 0.0 -349.894190871533 0.0;
+load 19 0.0 -161.88 0.0;
+load 20 0.0 -161.88 0.0;
 load 21 0.0 -1E-06 0.0;
 }
 wipeAnalysis;
@@ -404,13 +404,10 @@ system SparseGEN;
 test NormDispIncr 0.0001 100;
 set algorithmType Newton;
 algorithm $algorithmType;
-set IDctrlDOF 1;
-set Dmax double(13.991141535);
-set Dincr [ expr $Dmax/4000 ]
-set IDctrlNode 19;
+proc PushCycle { Dmax Nsteps IDctrlNode IDctrlDOF} {
+set Dincr [ expr $Dmax/$Nsteps ];
 integrator DisplacementControl $IDctrlNode $IDctrlDOF $Dincr;
 analysis Static	
-set Nsteps [expr int($Dmax /$Dincr)];
 set ok [analyze $Nsteps];
 # ---------------------------------- in case of convergence problems
 if {$ok != 0} {      
@@ -451,3 +448,48 @@ if {$ok != 0} {
 	}
 	};      # end if ok !0
 
+}
+PushCycle double(1.3991141535) 50 19 1;
+PushCycle double(-1.3991141535) 50 19 1;
+PushCycle double(-1.3991141535) 50 19 1;
+PushCycle double(1.3991141535) 50 19 1;
+PushCycle double(1.3991141535) 50 19 1;
+PushCycle double(-1.3991141535) 50 19 1;
+PushCycle double(-1.3991141535) 50 19 1;
+PushCycle double(1.3991141535) 50 19 1;
+PushCycle double(2.798228307) 100 19 1;
+PushCycle double(-2.798228307) 100 19 1;
+PushCycle double(-2.798228307) 100 19 1;
+PushCycle double(2.798228307) 100 19 1;
+PushCycle double(2.798228307) 100 19 1;
+PushCycle double(-2.798228307) 100 19 1;
+PushCycle double(-2.798228307) 100 19 1;
+PushCycle double(2.798228307) 100 19 1;
+PushCycle double(4.1973424605) 150 19 1;
+PushCycle double(-4.1973424605) 150 19 1;
+PushCycle double(-4.1973424605) 150 19 1;
+PushCycle double(4.1973424605) 150 19 1;
+PushCycle double(4.7569881219) 170 19 1;
+PushCycle double(-4.7569881219) 170 19 1;
+PushCycle double(-4.7569881219) 170 19 1;
+PushCycle double(4.7569881219) 170 19 1;
+PushCycle double(5.0368109526) 180 19 1;
+PushCycle double(-5.0368109526) 180 19 1;
+PushCycle double(-5.0368109526) 180 19 1;
+PushCycle double(5.0368109526) 180 19 1;
+PushCycle double(5.596456614) 200 19 1;
+PushCycle double(-5.596456614) 200 19 1;
+PushCycle double(-5.596456614) 200 19 1;
+PushCycle double(5.596456614) 200 19 1;
+PushCycle double(5.8762794447) 210 19 1;
+PushCycle double(-5.8762794447) 210 19 1;
+PushCycle double(-5.8762794447) 210 19 1;
+PushCycle double(5.8762794447) 210 19 1;
+PushCycle double(6.9955707675) 220 19 1;
+PushCycle double(-6.9955707675) 220 19 1;
+PushCycle double(-6.9955707675) 220 19 1;
+PushCycle double(6.9955707675) 220 19 1;
+PushCycle double(7.2753935982) 225 19 1;
+PushCycle double(-7.2753935982) 225 19 1;
+PushCycle double(-7.2753935982) 225 19 1;
+PushCycle double(7.2753935982) 225 19 1;
