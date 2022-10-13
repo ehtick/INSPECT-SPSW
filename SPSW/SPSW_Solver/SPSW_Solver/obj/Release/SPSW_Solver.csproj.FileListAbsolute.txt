@@ -308,3 +308,4 @@ E:\SPSW\INSPECT-SPSW\SPSW\SPSW_Solver\SPSW_Solver\obj\Release\SPSW_Solver.csproj
 E:\SPSW\INSPECT-SPSW\SPSW\SPSW_Solver\SPSW_Solver\obj\Release\SPSW_Solver.csproj.CopyComplete
 E:\SPSW\INSPECT-SPSW\SPSW\SPSW_Solver\SPSW_Solver\obj\Release\SPSW_Solver.exe
 E:\SPSW\INSPECT-SPSW\SPSW\SPSW_Solver\SPSW_Solver\obj\Release\SPSW_Solver.pdb
+E:\SPSW\INSPECT-SPSW\SPSW\SPSW_Solver\SPSW_Solver\obj\Release\SPSW_Solver.csproj.AssemblyReference.cache
